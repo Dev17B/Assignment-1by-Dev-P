@@ -1,0 +1,160 @@
+body{
+    /*added some font */
+    font-family: 'Roboto Condensed', sans-serif;
+    /*added some size for body */
+    width:97%;
+    display: block;
+    /*added some linear-gradient color for body section */
+    background: linear-gradient(241deg, #a2d3f5,#0141a4,#e8d5cc,#937d85 );
+
+}
+.Nameofpage
+{
+    /*Best settings and adjustments for name of page section */
+    background-color:rgb(255, 255, 255);
+    text-align:center;
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+    padding: 0px 0px 0px 0px;
+    border-radius: 80px;  
+    height: auto;
+}
+.bttn 
+{
+    /*Best settings and adjustments for the botten of the "name of page" section */
+    border: none;
+    background-color: inherit;
+    max-width: 100px;
+    padding: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.boxxer:hover 
+{
+    /* button hover of the "name of page" section and its best settings and adjustments */
+    background: linear-gradient(241deg, #a2d3f5,#e8d5cc,#937d85)
+}
+
+.pagename
+{
+    /*Best settings and adjustments for pagename section */
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    max-width: 40%;
+    display: block;
+    margin: 10px auto;
+    padding: 20px 50px 20px 50px;
+    border-radius: 40px; 
+}
+.pagename h1
+{
+    /*text colore for pagenmae section */
+    color: white;
+}
+.new 
+{
+    /*Best settings and adjustments button called new*/
+    border: none;
+    background-color: inherit;
+    padding: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.but2:hover 
+{
+    /* button hover of the "new" button */
+    background: linear-gradient(241deg, #a2d3f5,#0141a4,#937d85)
+}
+
+.sidepic
+{
+    /*Best settings and adjustments*/
+    text-align: center;
+    border-radius: 400px; 
+    background-color: #000000;
+    text-align: center;
+    height: auto;
+    max-width: 90%;
+    margin: 10px auto;
+    padding: 20px 20px 20px 20px;
+    border-radius: 40px; 
+    color: white;  
+}
+.zoom {
+    /*Best settings and adjustments for zoom my photo feature*/
+    width: 80%;
+    height: 100% ;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.zoom img {
+    /*Best settings and adjustments for zoom my photo feature*/
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+
+.zoom:hover img {
+    /*Best settings and adjustments for zoom my photo feature*/
+    transform: scale(1.2);
+}
+.missme
+{
+    /*Best settings and adjustments*/
+    background: linear-gradient(41deg,#a2d3f5,#e8d5cc,#937d85);
+    text-align:center;
+    display: block;
+    margin: 10px auto;
+    max-width: 100%;
+    border-radius: 20px;
+}
+.letmeknow
+{
+    /*Best settings and adjustments for footer*/
+    background-color: white;
+    text-align:center;
+    max-width: 100%;
+    margin: 10px auto;
+    padding: 20px 50px 20px 50px;
+    border-radius: 40px;
+    height: auto;
+}
+
+.letmeknow h3,h5
+{
+    /*text color  for footer*/
+    color: rgb(12, 12, 12);
+}
+video 
+{
+    /*Best settings and adjustments for my video*/
+    text-align:center;
+    width: 98%;
+    height: 25%;
+    padding: 20px 0px 20px 0px;
+    margin: 10px auto;
+}
+.read
+{
+    /*Best settings and adjustments some extra features*/
+    background: linear-gradient(441deg, #4fb1f7,#eb7037 );
+    color:rgb(0, 0, 0);
+    height:40px;
+    border-radius: 5px;
+    text-align: center;
+}
+.read:hover {
+    /*Best settings and adjustments some extra features*/
+    background-color:beige;
+    color:rgb(0, 0, 0);
+    height:40px;
+    border:2px white solid;
+    box-shadow: -10px -10px 5px rgb(39, 37, 37);
+    border-radius: 5px;
+    }

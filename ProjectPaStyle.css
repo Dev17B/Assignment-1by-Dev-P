@@ -1,0 +1,181 @@
+@charset "UTF-8";
+body{
+    /*added some font */
+    font-family: 'Roboto Condensed', sans-serif;
+    /*no limitations for body */
+    display: block;
+    /*added some linear-gradient color for body section */
+    background: linear-gradient(241deg, #beb2bd, #4c4757, #557484, #30586c, #d3dedf );
+
+}
+.Nameofpage
+{
+    /*Best settings and adjustments for name of page section */
+    background-color: white;
+    text-align:center;
+    max-width: 20%;
+    display: block;
+    margin: 10px auto;
+    padding: 20px 120px 20px 120px;
+    border-radius: 70px;  
+    height: auto;
+}
+.bttn 
+{
+    /*Best settings and adjustments for the botten of the "bttn " section */
+    border: none;
+    background-color: inherit;
+    max-width: 100px;
+    padding: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.boxxer:hover 
+{
+    /* button hover of the "boxxer" section and its best settings and adjustments */
+    background: linear-gradient(241deg, #beb2bd, #4c4757,#d3dedf)
+}
+
+.pagename
+{
+    /*Best settings and adjustments for pagename section */
+    background-color: #000000;
+    text-align: center;
+    max-width: 35%;
+    display: block;
+    margin: 20px auto;
+    padding: 20px 50px 20px 50px;
+    border-radius: 40px; 
+    color: white;  
+}
+.new 
+{
+    /*Best settings and adjustments for the botten of the "new" section */
+    border: none;
+    background-color: inherit;
+    padding: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.but2:hover 
+{
+    /* button hover of the "but2" section and its best settings and adjustments */
+    background: linear-gradient(241deg, #beb2bd, #557484, #d3dedf)
+}
+.intro
+{
+    /*Best settings and adjustments for intro section */
+    text-align:center;
+    background: linear-gradient(21deg,#beb2bd, #557484, #d3dedf );
+    display: block;
+    margin:  20px  auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 70px;
+    max-width: 70%;
+    height: auto;
+}
+.intro h2,h1
+{
+    /*text color adnd location for intro section */
+    color: white;
+    width: auto;
+}
+
+.hangman
+{
+    /*Best settings and adjustments for the botten of the "hangman" section */
+    text-align: center;
+    border-radius: 400px; 
+    background-color: #000000;
+    text-align: center;
+    height: auto;
+    max-width: 30%;
+    margin: 20px auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 40px; 
+    color: white;  
+
+}
+.system
+{
+    /*Best settings and adjustments for the botten of the "system" section */
+    text-align: center;
+    border-radius: 400px; 
+    background-color: #000000;
+    text-align: center;
+    height: auto;
+    max-width: 55%;
+    margin: 20px auto;
+    padding: 20px 150px 20px 150px;
+    border-radius: 40px; 
+    color: white;  
+
+}
+.Research
+{
+    /*Best settings and adjustments for the botten of the "Research" section */
+    text-align: center;
+    border-radius: 400px; 
+    background-color: #000000;
+    text-align: center;
+    height: auto;
+    max-width: 45%;
+    margin: 20px auto;
+    padding: 20px 150px 20px 150px;
+    border-radius: 40px; 
+    color: white;  
+
+}
+.Report
+{
+    /*Best settings and adjustments for the botten of the "Report" section */
+    border-radius:400px;
+    background-color: #000000;
+    height: auto;
+    text-align: center;
+    max-width: 40%;
+    margin: 20px auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 40px; 
+    color: white;  
+
+}
+
+.letmeknow
+{
+    /*Best settings and adjustments for footer*/
+    background-color: white;
+    text-align:center;
+    max-width: 50%;
+    margin: 60px auto;
+    padding: 20px 0px 20px 0px;
+    border-radius: 70px;
+    height: auto;
+}
+    
+.letmeknow h3,h5
+{
+    /*text color for footer*/
+    color: rgb(12, 12, 12);
+
+}
+
+.btn 
+{
+    /*Best settings and adjustments for btu*/
+    border: none;
+    background-color: inherit;
+    padding: 5px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 30px; 
+
+}
+.btn:hover {background: red;}  /*background color for button*/
+.box {color: white;} /*text color for button*/
+

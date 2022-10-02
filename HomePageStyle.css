@@ -1,0 +1,235 @@
+@charset "UTF-8";
+body 
+{
+    /*added some font */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*no limitations for body */
+    display: block;
+    /*added some linear-gradient color for body section */
+    background: linear-gradient(241deg, #fac283, #fa8090, #911d0b, #4092e9, #ab2525 );
+}
+.Nameofpage
+{
+    /*Best settings and adjustments for name of page section */
+    background-color: white;
+    text-align:center;
+    max-width: 20%;
+    display: block;
+    margin: 10px auto;
+    padding: 20px 120px 20px 120px;
+    border-radius: 70px;  
+    height: auto;
+}
+.bttn 
+{
+    /*Best settings and adjustments for the botten of the "name of page" section */
+    border: none;
+    background-color: inherit;
+    max-width: 100px;
+    padding: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.boxxer:hover 
+{
+    /* button hover of the "name of page" section and its best settings and adjustments */
+    background: linear-gradient(241deg, #fac283, #fa8090, #911d0b, #ab2525 )
+}
+.Assignment
+{
+    /*Best settings and adjustments for name of Assignment section */
+    background-color: #000000;
+    text-align: center;
+    display: block;
+    max-width: 30%;
+    margin: 10px auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 40px;
+    height: auto;
+}
+.intro
+{
+    /*Best settings and adjustments for intro section */
+    background-color: #000000;
+    text-align: center;
+    width: auto;
+    max-width: 65%;
+    display: block;
+    margin: 10px auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 40px;
+}
+.new 
+{
+    /*Best settings and adjustments for the botten of the "new" section */
+    border: none;
+    background-color: inherit;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 20px; 
+}
+.but2:hover 
+{
+    /* button hover of the "intro" section and its best settings and adjustments */
+    background: linear-gradient(241deg, #fa8090, #911d0b, #4092e9, #ab2525 )
+}
+.thanks
+{
+    /*Best settings and adjustments for thanks section */
+    background-color: #000000;
+    text-align:center;
+    display: block;
+    max-width: 40%;
+    margin: auto auto;
+    padding: 20px 100px 20px 100px;
+    border-radius: 70px;
+    height: auto;
+}
+.multicolor 
+{
+    /*Best settings and adjustments for multicolor feature */
+    background-image: linear-gradient(to right, #fa8090 ,  #4092e9, #ab2525 , #fac283 );
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.firstqoute
+{
+    /*text location for firstqoute */
+    text-align:center;
+}
+.secondqoute
+{
+    /*Best settings and adjustments for secondqoute section */
+    background-color: #000000;
+    display: block;
+    padding: 20px 100px 20px 100px;
+    text-align:center;
+    border-radius: 70px;
+    height: auto;
+}
+.secondqoute h2,h1
+{
+    /*text color and location for this section */
+    color: white;
+    text-align: center;
+    
+
+}
+
+.letmeknow
+{
+    /*Best settings and adjustments for footer*/
+    background-color: white;
+    text-align:center;
+    max-width: 50%;
+    margin: 50px  auto 0px;
+    padding: 20px 0px 20px 0px;
+    border-radius: 70px;
+    height: auto;
+}
+.banner-ph1
+{
+    /*Best settings and adjustments for banner-Ph1 section */
+    padding: 90px;
+    text-align:center;
+    margin: 70px;
+    border-radius: 25px;
+    background-color:black;
+    border:2px white solid;
+    height: auto;
+
+}
+.banner-Po2
+{
+    /*Best settings and adjustments for banner-Po2 section */
+    padding: 90px;
+    text-align:center;
+    margin: 70px;
+    border-radius: 25px;
+    background-color:black;
+    border:2px white solid;
+    height: auto;
+
+
+}
+.banner-Po3
+{
+    /*Best settings and adjustments for banner-Po3 section */
+    padding: 90px;
+    text-align:center;
+    margin: 70px;
+    border-radius: 25px;
+    background-color:black;
+    border:2px white solid;
+    height: auto;
+
+}
+
+#Nameofpage h1
+{
+    /*text color Nameofpage  section*/
+    color: white;
+}
+#Assignment h1
+{
+    /*text color and width for Assignment section*/
+    color:white;
+    width: auto;
+}
+
+#letmeknow h3,h5
+{
+    /*text color for footer*/
+    color: rgb(12, 12, 12);
+}
+#thanks h1,h4
+{
+    /*text color, text location for thanks section*/
+    color: white;
+    text-align: center;
+}
+
+#banner-ph1 h1,h2
+{
+    /*text color, text location and width for banner-Ph1*/
+    color: white;
+    text-align: center;
+    width: auto;
+
+}
+.banner-Po2 h1,h2
+{
+    /*text color, text location and width for banner-Po2*/
+    color: white;
+    text-align: center;
+    width: auto;
+
+}
+.banner-Po3 h1,h2
+{
+    /*text color, text location and width for banner-Po3*/
+    color: white;
+    text-align: center;
+    width: auto;
+
+}
+.btn {
+    /*Best settings and adjustments for button*/
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+.btn:hover {background: rgb(243, 31, 3);}  /*background color for button*/
+  
+  .read {color: white;} /*text color for button*/
